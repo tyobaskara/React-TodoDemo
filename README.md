@@ -1,2 +1,5 @@
 # React-TodoDemo
--npm install , -npm start
+Using SCSS/SASS
+
+- npm install
+- npm start
